@@ -5,7 +5,6 @@
 }
 
 body {
-    margin: 0;
     font-family: Arial, sans-serif;
 }
 
@@ -22,7 +21,6 @@ body {
 
 .navbar h1 {
     color: white;
-    margin: 0;
 }
 
 .navbar ul {
